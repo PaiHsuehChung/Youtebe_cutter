@@ -1,0 +1,5 @@
+opencv_python==4.2.0.32
+colorama==0.4.3
+tqdm==4.43.0
+pytube3==9.6.4
+pytube==9.6.0
